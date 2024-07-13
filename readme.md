@@ -71,9 +71,9 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-  Portfolio: Displaying my work and projects.
-  Basketball Achievements: Highlighting key milestones and accolades in my basketball journey.
-  Resume: Showcasing my skills, experiences, and professional background.
+  - Portfolio: Displaying my work and projects.
+  -  Basketball Achievements: Highlighting key milestones and accolades in my basketball journey.
+  - Resume: Showcasing my skills, experiences, and professional background.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
