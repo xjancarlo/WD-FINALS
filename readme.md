@@ -88,25 +88,102 @@ Guiding Question:
 3. File Structure to follow
 
 ```
-WD-ProjectName
+WD-FINALS
 └─ assets
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   |   └─ back-btn.png
+|   |   └─ jc.png
+|   |   └─ jc-logo.png
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
+|  └─ basketball-page
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
 |     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  |  └─ b1-1.jpg
+|     |  |  └─ b1-2.jpg
+|     |  |  └─ b2-1.jpg
+|     |  |  └─ b2-2.jpg
+|     |  |  └─ b3-1.jpg
+|     |  |  └─ b3-2.jpg
+|     |  |  └─ b3-3.jpg
+|     |  |  └─ b3-4.jpg
+|     |  └─ js
+|     |     └─ script.js
+|  └─ mobile-legends-page
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ chou.png
+|     |  |  └─ edith.png
+|     |  |  └─ math.png
+|     |  |  └─ rafa.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ resume-page
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ mobile-legends-page
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ wd-2.png
+|     |  |  └─ wd-3.png
+|     |  |  └─ wd-4.png
 |     |  └─ js
 |     |     └─ script.js
 |     └─ index.html
 └─ index.html
 └─ readme.md
 ```
+## File Structure Explanation
+- The file structure of the project is organized as follows:
 
+- WD-FINALS: The root directory containing all project files.
+  - assets: A directory for shared assets used across the entire project.
+    - css: Contains the main stylesheet for the project (`style.css`).
+    - img: Stores images such as `back-btn.png`, `jc.png`, and `jc-logo.png`.
+    - js: Contains the main JavaScript file (`script.js`).
+  - pages: A directory for different pages of the website, each with its own subdirectory.
+    - basketball-page: Contains assets and content specific to the basketball-themed page.
+      - assets: Subdirectory for page-specific assets.
+        - css: Stylesheet for the basketball page (`style.css`).
+        - img: Images used on the basketball page (e.g., `b1-1.jpg`, `b2-1.jpg`).
+        - js: JavaScript file for the basketball page (`script.js`).
+    - mobile-legends-page: Contains assets and content specific to the Mobile Legends-themed page.
+      - assets: Subdirectory for page-specific assets.
+        - css: Stylesheet for the Mobile Legends page (`style.css`).
+        - img: Images used on the Mobile Legends page (e.g., `chou.png`, `edith.png`).
+        - js: JavaScript file for the Mobile Legends page (`script.js`).
+      - index.html: HTML file for the Mobile Legends page.
+    - resume-page: Contains assets and content specific to the resume page.
+      - assets: Subdirectory for page-specific assets.
+        - css: Stylesheet for the resume page (`style.css`).
+        - img: Images used on the resume page.
+        - js: JavaScript file for the resume page (`script.js`).
+      - index.html: HTML file for the resume page.
+  - index.html: The main landing page of the website.
+  - readme.md: The README file providing project details and instructions.
+
+This structured approach ensures that assets and content are organized and easily accessible for each specific page, promoting maintainability and scalability of the project.
+
+## Links of Website and Project Repositories
+- https://github.com/xjancarlo/WD-SW2
+- https://github.com/xjancarlo/WD-SW3
+- https://github.com/xjancarlo/WD-SW4
+- https://github.com/xjancarlo/WD-FINALS
+
+## Deployment Instructions
+- https://scribehow.com/shared/Deploy_a_website_using_GitHub_Pages__UyFSCsflSte7l0IhcvFFdg?referrer=documents
