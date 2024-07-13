@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Welcome to my personal website, a comprehensive showcase of my work, basketball achievements, professional resume, and passion for Mobile Legends. Explore my portfolio to see my projects and accomplishments. Dive into my basketball journey, highlighting key milestones and accolades. View my detailed resume to learn about my skills and experiences. Discover my favorite Mobile Legends characters and their unique traits. Stay connected through direct links to my social media profiles, making it easy for you to get in touch with me.
+  Welcome to my personal website, a hub showcasing my work portfolio, basketball achievements, professional resume, and favorite Mobile Legends characters. Connect with me easily through direct links to my social media profiles.
 </div>
 
 <br />
@@ -57,7 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Welcome to my personal website, a comprehensive showcase of my work, basketball achievements, professional resume, and passion for Mobile Legends. Explore my portfolio to see my projects and accomplishments. Dive into my basketball journey, highlighting key milestones and accolades. View my detailed resume to learn about my skills and experiences. Discover my favorite Mobile Legends characters and their unique traits. Stay connected through direct links to my social media profiles, making it easy for you to get in touch with me.
 
 Guiding Question:
 - What is the project
@@ -72,7 +72,7 @@ Guiding Question:
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
   - Portfolio: Displaying my work and projects.
-  -  Basketball Achievements: Highlighting key milestones and accolades in my basketball journey.
+  - Basketball Achievements: Highlighting key milestones and accolades in my basketball journey.
   - Resume: Showcasing my skills, experiences, and professional background.
 
 ### Technology
